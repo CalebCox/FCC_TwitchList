@@ -1,0 +1,8 @@
+node_modules
+gulpfile.js
+package.json
+package-lock.json
+yarn.lock
+.sass-cache
+/src/sass/main.css.map
+/src/sass/main.scss
