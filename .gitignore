@@ -6,3 +6,5 @@ yarn.lock
 .sass-cache
 /src/sass/main.css.map
 /src/sass/main.scss
+.DS_Store
+.DS_Store?
